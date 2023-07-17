@@ -57,7 +57,9 @@ This photo shows the teams and they're level of work. This is to help the entry 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![Screenshot 2023-07-17 135153](https://github.com/trentree/post-install-config/assets/129711900/aea9ce7d-a814-4b4b-b378-5590a44c494d)
+
 </p>
 <p>
 Employees will have their own sub category. This shows any tickets that Employees have created.

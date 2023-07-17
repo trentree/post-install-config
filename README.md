@@ -59,7 +59,7 @@ Here, we created deparments that every single business would have. We decided to
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This photo shows the teams and they're level of work. This is to help the entry levels stick to the easier tasks and the intermediate levels for other tasks that requires a bit extra skills. 
 </p>
 <br />
 
